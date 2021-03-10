@@ -1,0 +1,154 @@
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/host.json
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/local.settings.json
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/func.deps.json
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/func.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/func.pdb
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authorization.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Http.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Routing.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.WebUtilities.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.Cosmos.Table.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.DocumentDB.Core.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.KeyVault.Core.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.Storage.Blob.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.Storage.Common.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.Storage.Queue.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Host.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Extensions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Extensions.Http.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Extensions.Storage.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Host.Storage.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Hosting.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.ObjectPool.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Net.Http.Headers.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.OData.Core.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.OData.Edm.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.Spatial.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/NCrontab.Signed.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/runtimes/win7-x64/native/Cosmos.CRTCompat.dll
+/Users/Fritz/Desktop/func/bin/Release/netcoreapp3.1/runtimes/win7-x64/native/Microsoft.Azure.Documents.ServiceInterop.dll
+/Users/Fritz/Desktop/func/obj/Release/netcoreapp3.1/func.csprojAssemblyReference.cache
+/Users/Fritz/Desktop/func/obj/Release/netcoreapp3.1/func.AssemblyInfoInputs.cache
+/Users/Fritz/Desktop/func/obj/Release/netcoreapp3.1/func.AssemblyInfo.cs
+/Users/Fritz/Desktop/func/obj/Release/netcoreapp3.1/func.csproj.CoreCompileInputs.cache
+/Users/Fritz/Desktop/func/obj/Release/netcoreapp3.1/func.csproj.CopyComplete
+/Users/Fritz/Desktop/func/obj/Release/netcoreapp3.1/func.dll
+/Users/Fritz/Desktop/func/obj/Release/netcoreapp3.1/func.pdb
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/host.json
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/local.settings.json
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/func.deps.json
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/func.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/func.pdb
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/DocumentFormat.OpenXml.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authorization.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Http.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Routing.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.WebUtilities.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.Cosmos.Table.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.DocumentDB.Core.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.KeyVault.Core.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.Storage.Blob.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.Storage.Common.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.Storage.Queue.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Host.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Extensions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Extensions.Http.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Extensions.Storage.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Azure.WebJobs.Host.Storage.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Hosting.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.ObjectPool.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Net.Http.Headers.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.OData.Core.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.OData.Edm.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.Spatial.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/NCrontab.Signed.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/System.IO.Packaging.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/runtimes/win7-x64/native/Cosmos.CRTCompat.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/bin/Release/netcoreapp3.1/runtimes/win7-x64/native/Microsoft.Azure.Documents.ServiceInterop.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/obj/Release/netcoreapp3.1/func.csprojAssemblyReference.cache
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/obj/Release/netcoreapp3.1/func.AssemblyInfoInputs.cache
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/obj/Release/netcoreapp3.1/func.AssemblyInfo.cs
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/obj/Release/netcoreapp3.1/func.csproj.CoreCompileInputs.cache
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/obj/Release/netcoreapp3.1/func.csproj.CopyComplete
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/obj/Release/netcoreapp3.1/func.dll
+/Users/Fritz/Desktop/Branding Police/blobtrigger88/obj/Release/netcoreapp3.1/func.pdb

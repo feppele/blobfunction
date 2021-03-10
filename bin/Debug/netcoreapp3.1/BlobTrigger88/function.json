@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.11",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "blobTrigger",
+      "connection": "blobstore55_STORAGE",
+      "path": "tutorial-container/{name}",
+      "name": "pptxDatei"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/func.dll",
+  "entryPoint": "Company.Function.BlobTrigger88.Run"
+}

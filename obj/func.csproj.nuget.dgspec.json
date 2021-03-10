@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Fritz/Desktop/Branding Police/blobtrigger88/func.csproj": {}
+  },
+  "projects": {
+    "/Users/Fritz/Desktop/Branding Police/blobtrigger88/func.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Fritz/Desktop/Branding Police/blobtrigger88/func.csproj",
+        "projectName": "func",
+        "projectPath": "/Users/Fritz/Desktop/Branding Police/blobtrigger88/func.csproj",
+        "packagesPath": "/Users/Fritz/.nuget/packages/",
+        "outputPath": "/Users/Fritz/Desktop/Branding Police/blobtrigger88/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Fritz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions.Storage": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[3.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
